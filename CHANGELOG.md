@@ -1,5 +1,74 @@
 # .NET Core Buildpack Changelog
 
+## 2019-07-11
+
+- Updated .NET Core 2.2.301
+
+## 2019-05-15
+
+- Updated .NET Core 2.2.204
+
+## 2019-04-10
+
+- Updated .NET Core 2.2.203
+
+## 2019-03-13
+
+- Updated .NET Core 2.2.105
+
+## 2019-02-13
+
+- Updated .NET Core 2.2.104
+
+## 2019-01-10
+
+- Updated .NET Core 2.2.102
+
+## 2018-12-06
+
+- Updated .NET Core 2.2.100
+
+## 2018-10-18
+
+- Updated .NET Core 2.2.0-preview3
+
+## 2018-11-14
+
+- Updated .NET Core 2.1.500
+
+## 2018-10-18
+
+- Updated .NET Core 2.1.403
+
+## 2018-09-13
+
+- Updated .NET Core 2.1.402
+- Updated .NET Core 2.2.0-preview2
+
+## 2018-08-29
+
+- Updated .NET Core 2.2.0-preview1
+
+## 2018-08-22
+
+- Updated .NET Core 2.1.401
+
+## 2018-08-15
+
+- Updated .NET Core 2.1.400
+
+## 2018-08-05
+
+- Added support custom Procfile ([#53](https://github.com/jincod/dotnetcore-buildpack/pull/53))
+
+## 2018-07-14
+
+- Updated .NET Core 2.1.302
+
+## 2018-07-04
+
+- Updated .NET Core 2.1.301
+
 ## 2018-05-31
 
 - Updated .NET Core 2.1.300
